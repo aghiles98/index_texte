@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1492381598 source:e:\alsdd_programmes\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wchar.h>
+	<conio.h>
+	<conio2.h>
+	"conio.h"
+	"conio2.h"
+	"Biblio_LLC_Index.h"
+
+1491521220 e:\alsdd_programmes\tp\index.h
+
+1492254748 e:\alsdd_programmes\tp\conio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+
+1492193721 e:\alsdd_programmes\tp\conio2.h
+	<conio.h>
+
+1492365391 e:\alsdd_programmes\tp\biblio_llc_index.h
+
+1492381598 source:e:\alsdd_programmes\tp aghiles idres && mehenna mahlal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wchar.h>
+	<conio.h>
+	<conio2.h>
+	"conio.h"
+	"conio2.h"
+	"Biblio_LLC_Index.h"
+
+1492254748 e:\alsdd_programmes\tp aghiles idres && mehenna mahlal\conio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+
+1492193721 e:\alsdd_programmes\tp aghiles idres && mehenna mahlal\conio2.h
+	<conio.h>
+
+1492365391 e:\alsdd_programmes\tp aghiles idres && mehenna mahlal\biblio_llc_index.h
+
+1492381598 source:e:\c_programmes\alsdd_programmes\tp aghiles idres && mehenna mahlal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wchar.h>
+	<conio.h>
+	<conio2.h>
+	"conio.h"
+	"conio2.h"
+	"Biblio_LLC_Index.h"
+
+1492254748 e:\c_programmes\alsdd_programmes\tp aghiles idres && mehenna mahlal\conio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+
+1492193721 e:\c_programmes\alsdd_programmes\tp aghiles idres && mehenna mahlal\conio2.h
+	<conio.h>
+
+1492365391 e:\c_programmes\alsdd_programmes\tp aghiles idres && mehenna mahlal\biblio_llc_index.h
+
+1499113926 source:e:\c_programmes\alsdd_programmes\tp aghiles idres && mehenna mahlal\untitled1.rc
+
